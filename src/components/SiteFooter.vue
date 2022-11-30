@@ -1,18 +1,52 @@
 <template>
-  <div class="row">
-    <div class="col-xs-0 col-md-4"/>
-    <div class="col-xs-6 col-md-1 center-xs">
-      <a href="https://github.com/BmoreCodeCoffee">
-        <img class="icon" src="../assets/img/icons/github.svg"
-             alt="Github icon that links to the Baltimore Code & Coffee Github"/>
-      </a>
+  <div class="footer">
+    <div class="row">
+      <div class="socials">
+        <div class="col-xs-0 col-md-4" />
+        <div class="col-xs-6 col-md-1 center-xs">
+          <a href="https://github.com/BmoreCodeCoffee">
+            <img
+              class="icon"
+              src="../assets/img/icons/github.svg"
+              alt="Github icon that links to the Baltimore Code & Coffee Github"
+            />
+          </a>
+        </div>
+        <div class="col-xs-0 col-md-2" />
+        <div class="col-xs-6 col-md-1 center-xs">
+          <a href="https://twitter.com/BmoreCodeCoffee">
+            <img
+              class="icon"
+              src="../assets/img/icons/twitter.svg"
+              alt="Twitter icon that links to Baltimore Code & Coffee Twitter"
+            />
+          </a>
+        </div>
+      </div>
     </div>
-    <div class="col-xs-0 col-md-2"/>
-    <div class="col-xs-6 col-md-1 center-xs">
-      <a href="https://twitter.com/BmoreCodeCoffee">
-        <img class="icon" src="../assets/img/icons/twitter.svg"
-             alt="Twitter icon that links to Baltimore Code & Coffee Twitter"/>
-      </a>
+    <div class="row">
+      <div class="sponsors">
+        <div class="col-xs-0 col-md-4" />
+        <div class="col-xs-6 col-md-1 center-xs">
+          <a href="https://github.com/BmoreCodeCoffee">
+            <img
+              class="icon"
+              src="../assets/img/icons/github.svg"
+              alt="Github icon that links to the Baltimore Code & Coffee Github"
+            />
+          </a>
+        </div>
+        <div class="col-xs-0 col-md-2" />
+        <div class="col-xs-6 col-md-1 center-xs">
+          <a href="https://twitter.com/BmoreCodeCoffee">
+            <img
+              class="icon"
+              src="../assets/img/icons/twitter.svg"
+              alt="Twitter icon that links to Baltimore Code & Coffee Twitter"
+            />
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </template>
